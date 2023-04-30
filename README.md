@@ -16,6 +16,7 @@ Data for US territories were collected in the year 2015 or before and was consid
 ## Observations
 
 **Gun Related Death - % calculated per 100,000 population**
+
 **Comparison Between States with Highest and Lowest Gun Violence Deaths:**
 
 1. The state with the lowest death is Rhode Island wuth 3.28% death and Gun Law Strictness grade of 90.
