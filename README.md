@@ -42,8 +42,10 @@ Data for US territories were collected in the year 2015 or before and was consid
 
 ## Conclusion
 
-1. The trend observed is that states with 
+1. The trend observed is that states with higher density have higher income and lower poverty rates, with lower gun related deaths.
 2. Religious factors and happiness index can also be considered into the study to improve the clusters.
-3.The elbow curve for K-means cluster gives us a value of 4.
+
+![image](https://user-images.githubusercontent.com/100053788/235393621-3762bc69-6e5a-4d00-8d94-55d85ab0b55e.png)
+
+3. The elbow curve for K-means cluster gives us a value of 4.
 4. On creating 4 clusters we observe that the algorithm grouped Alaska and Hawaii into one cluster, preferably for being outliers to the data collected and analyzed. Area, denisty, population and income statistics do not follow the trend observed in the rest of the states.
-5. The remaining clusters were for states with low - high gun related violence.
