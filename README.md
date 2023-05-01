@@ -18,7 +18,7 @@ The data collected from websites are cleaned and feed into PostgreSQL database. 
 
 **Comparison Between States with Highest and Lowest Gun Violence Deaths:**
 
-1. The state with the lowest death is Rhode Island wuth 3.28% death and Gun Law Strictness grade of 90.
+1. The state with the lowest death is Rhode Island with 3.28% death and Gun Law Strictness grade of 90.
 2. It is observed that Rhode Island has a lower Poverty Rate, population diversity, lower number of Families, higher population density and higher median family income compared to Mississippi, the state with the higher % of gun related deaths (22.81%).
 3. These observations are also reflected when comparing data between states classified as high gun Violence and Low Gun-Violence
 
