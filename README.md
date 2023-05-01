@@ -2,11 +2,11 @@
 
 ## Goal
 
-The aim of this study is to visualize the gun violence data collected for the year 2021 and highlight what I think are the most important Contributing Factors in terms of Socio-Economic Factors.
+The aim of this study is to visualize the gun violence data collected for the year 2021 and highlight what I think are the most important Factors contributing to gun violence.
 
 ## Data
 
-The Data was collected through web-parsing wikipedia tables and other suitable table found on reputable webistes. The data is mostly for the year 2020 and 2019.
+The Data was collected through web-parsing wikipedia tables and other suitable table found on reputable webistes. The data collected is mostly from the year 2020 and 2019. The data is classified as high gun violence and low gun violence based the % gun death rate.
 
 ## Analysis
 
@@ -42,6 +42,8 @@ Data for US territories were collected in the year 2015 or before and was consid
 
 ## Conclusion
 
-1. Main Factors contributing to Gun Violence are population diversity, population distribution, income, employment and social welfare.
+1. The trend observed is that states with 
 2. Religious factors and happiness index can also be considered into the study to improve the clusters.
-3. The elbow curve for K-means cluster gives us a value of 5. On creating 5 clusters we observe data the algorithm classifies Alaska and Hawaii into one cluster, preferably for being outliers to the data collected and analyzed.
+3.The elbow curve for K-means cluster gives us a value of 4.
+4. On creating 4 clusters we observe that the algorithm grouped Alaska and Hawaii into one cluster, preferably for being outliers to the data collected and analyzed. Area, denisty, population and income statistics do not follow the trend observed in the rest of the states.
+5. The remaining clusters were for states with low - high gun related violence.
