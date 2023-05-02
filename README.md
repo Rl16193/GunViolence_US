@@ -2,7 +2,7 @@
 
 ## Goal
 
-The aim of this study is to visualize the gun violence data collected for the year 2021 and highlight what I think are the most important Factors contributing to gun violence.
+The aim of this study is to visualize the gun violence data collected for the year 2018 and highlight what I think are the most important Factors contributing to gun violence.
 
 ## Data
 
